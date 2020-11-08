@@ -1,0 +1,12 @@
+{
+      "headers":{
+        "Accept": "application/json,text/plain, * / *",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36",
+        "Accept": "application/json,text/plain, */*",
+        "Referer": "https://ieeexplore.ieee.org/document/",
+        "Content-Type": "application/json"
+
+      },
+       "params": {"queryText":"","highlight":true,"returnType":"SEARCH","matchPubs":true,"returnFacets":["ALL"]},
+        "url": "https://ieeexplore.ieee.org/rest/search"
+}

@@ -1,0 +1,453 @@
+{
+	"doi": {
+		"10.1109/ICCET.2010.5485531": [
+			false,
+			false
+		],
+		"10.1109/ICITSI.2015.7437725": [
+			false,
+			false
+		],
+		"10.1109/APSAR.2007.4418727": [
+			false,
+			false
+		],
+		"10.1109/ACCESS.2019.2932789": [
+			false,
+			false
+		],
+		"10.1109/SAI.2015.7237178": [
+			false,
+			false
+		],
+		"10.1109/SPAC.2017.8304255": [
+			false,
+			false
+		],
+		"10.1109/CSO.2009.209": [
+			false,
+			false
+		],
+		"10.1109/ICITA.2005.192": [
+			false,
+			false
+		],
+		"10.1109/TPAMI.2015.2498931": [
+			false,
+			false
+		],
+		"10.1109/ICAIIC48513.2020.9065012": [
+			false,
+			false
+		],
+		"10.1109/ICMSS.2011.5999256": [
+			false,
+			false
+		],
+		"10.1109/INFOCOMWKSHPS50562.2020.9163034": [
+			false,
+			false
+		],
+		"10.1109/CIFEr.2012.6327783": [
+			false,
+			false
+		],
+		"10.1109/ICICIP.2013.6568112": [
+			false,
+			false
+		],
+		"10.1109/ICR.2006.343462": [
+			false,
+			false
+		],
+		"10.1109/PACCS.2009.138": [
+			false,
+			false
+		],
+		"10.1109/CIS.2013.44": [
+			false,
+			false
+		],
+		"10.1109/ICASSP.2011.5947534": [
+			false,
+			false
+		],
+		"10.1109/IJCNN.2014.6889878": [
+			false,
+			false
+		],
+		"10.1109/ETFA.1995.496821": [
+			false,
+			false
+		],
+		"10.1109/ICACCS48705.2020.9074387": [
+			false,
+			false
+		],
+		"10.1109/TSG.2018.2857449": [
+			false,
+			false
+		],
+		"10.1109/CIFER.1997.618933": [
+			false,
+			false
+		],
+		"10.1109/NSSMIC.2013.6829281": [
+			false,
+			false
+		],
+		"10.1109/ISNETCOD.2011.5978917": [
+			false,
+			false
+		],
+		"10.1109/ITAIC.2014.7065011": [
+			false,
+			false
+		],
+		"10.1109/SCES.2012.6199099": [
+			false,
+			false
+		],
+		"10.1109/ISDA.2005.85": [
+			false,
+			false
+		],
+		"10.1109/ICIF.2005.1592016": [
+			false,
+			false
+		],
+		"10.1109/BigData47090.2019.9006068": [
+			false,
+			false
+		],
+		"10.1109/CoDIT.2019.8820624": [
+			false,
+			false
+		],
+		"10.23919/ICCAS.2017.8204399": [
+			false,
+			false
+		],
+		"10.1109/ICCSE.2018.8468703": [
+			false,
+			false
+		],
+		"10.1109/ECACE.2019.8679480": [
+			false,
+			false
+		],
+		"10.1109/ICEMT.2010.5657649": [
+			false,
+			false
+		],
+		"10.1109/AMIGE.2008.ECP.14": [
+			false,
+			false
+		],
+		"10.1109/ISIE.2001.931880": [
+			false,
+			false
+		],
+		"10.1109/ICTCK.2015.7582714": [
+			false,
+			false
+		],
+		"10.1109/IIKI.2016.49": [
+			false,
+			false
+		],
+		"10.1109/EMEIT.2011.6023456": [
+			false,
+			false
+		],
+		"10.1109/GrC.2013.6740438": [
+			false,
+			false
+		],
+		"10.1109/CESA.2006.4281919": [
+			false,
+			false
+		],
+		"10.1109/ICFTE.2010.5499420": [
+			false,
+			false
+		],
+		"10.1109/CCCM.2008.205": [
+			false,
+			false
+		],
+		"10.1109/ICOA.2019.8727658": [
+			false,
+			false
+		],
+		"10.23919/EUSIPCO.2017.8081568": [
+			false,
+			false
+		],
+		"10.1109/ISDA.2006.165": [
+			false,
+			false
+		],
+		"10.1109/CCDC.2017.7978792": [
+			false,
+			false
+		],
+		"10.1109/FSKD.2010.5569630": [
+			false,
+			false
+		],
+		"10.1109/ICIC.2011.109": [
+			false,
+			false
+		],
+		"10.1109/AIMSEC.2011.6011065": [
+			false,
+			false
+		],
+		"10.1109/ACCESS.2019.2950437": [
+			false,
+			false
+		],
+		"10.1109/MSIE.2011.5707633": [
+			false,
+			false
+		],
+		"10.1109/ICIEA.2010.5515281": [
+			false,
+			false
+		],
+		"10.1109/DRPT.2008.4523417": [
+			false,
+			false
+		],
+		"10.1109/ISGTEurope.2016.7856316": [
+			false,
+			false
+		],
+		"10.1109/ICSMC.2008.4811541": [
+			false,
+			false
+		],
+		"10.1109/EEM.2016.7521229": [
+			false,
+			false
+		],
+		"10.1109/ICEEE.2010.5660723": [
+			false,
+			false
+		],
+		"10.1109/TLA.2015.7273806": [
+			false,
+			false
+		],
+		"10.1109/TNNLS.2014.2315042": [
+			false,
+			false
+		],
+		"10.1109/ICCAT.2013.6521974": [
+			false,
+			false
+		],
+		"10.1109/ISAP.2007.4441640": [
+			false,
+			false
+		],
+		"10.1093/imaman/dpr018": [
+			false,
+			false
+		],
+		"10.1109/EEM.2015.7216770": [
+			false,
+			false
+		],
+		"10.1109/ICEETS.2016.7583797": [
+			false,
+			false
+		],
+		"10.1109/ICDE.2010.5447926": [
+			false,
+			false
+		],
+		"10.1109/TIM.2018.2889362": [
+			false,
+			false
+		],
+		"10.1109/EUROCON.2013.6625069": [
+			false,
+			false
+		],
+		"10.1109/ICC.2004.1313142": [
+			false,
+			false
+		],
+		"10.1109/IJCNN.2000.861306": [
+			false,
+			false
+		],
+		"10.1109/ISWCS.2019.8877299": [
+			false,
+			false
+		],
+		"10.1109/TPWRS.2017.2772044": [
+			false,
+			false
+		],
+		"10.1109/FUZZ.2002.1006746": [
+			false,
+			false
+		],
+		"10.1109/TPDS.2006.76": [
+			false,
+			false
+		],
+		"10.1109/CDC.2006.377284": [
+			false,
+			false
+		],
+		"10.1109/CDC.2010.5717602": [
+			false,
+			false
+		],
+		"10.1109/CDC.2017.8263701": [
+			false,
+			false
+		],
+		"10.1049/iet-com.2013.1158": [
+			false,
+			false
+		],
+		"10.1049/iet-cta.2018.6199": [
+			false,
+			false
+		],
+		"10.1109/ITW.2016.7606842": [
+			false,
+			false
+		],
+		"10.1109/ISWCS.2018.8491037": [
+			false,
+			false
+		],
+		"10.1109/GLOCOM.1995.502025": [
+			false,
+			false
+		],
+		"10.1109/TLA.2016.7555237": [
+			false,
+			false
+		],
+		"10.1109/TWC.2018.2875448": [
+			false,
+			false
+		],
+		"10.1109/ACSSC.2013.6810289": [
+			false,
+			false
+		],
+		"10.1109/CCNC.2017.7983111": [
+			false,
+			false
+		],
+		"10.1109/INFCOM.2012.6195483": [
+			false,
+			false
+		],
+		"10.1109/GLOCOM.2008.ECP.86": [
+			false,
+			false
+		],
+		"10.1109/JSAC.2011.110516": [
+			false,
+			false
+		],
+		"10.1109/ChiCC.2015.7259973": [
+			false,
+			false
+		],
+		"10.1109/TSMC.2014.2316268": [
+			false,
+			false
+		],
+		"10.1109/EVS.2013.6914750": [
+			false,
+			false
+		],
+		"10.1109/TSIPN.2018.2832011": [
+			false,
+			false
+		],
+		"10.1109/TSMCC.2005.860578": [
+			false,
+			false
+		],
+		"10.1109/COEC.2003.1210269": [
+			false,
+			false
+		],
+		"10.1109/ICETIETR.2018.8529126": [
+			false,
+			false
+		],
+		"10.1109/MASCOT.2003.1240657": [
+			false,
+			false
+		],
+		"10.1109/TASE.2019.2938673": [
+			false,
+			false
+		],
+		"10.1109/43.771173": [
+			false,
+			false
+		],
+		"10.1109/CDC.2015.7403139": [
+			false,
+			false
+		],
+		"10.1109/ACC.2008.4586625": [
+			false,
+			false
+		],
+		"10.1109/BIFE.2011.87": [
+			false,
+			false
+		],
+		"10.1109/CCGrid.2012.148": [
+			false,
+			false
+		],
+		"10.1109/ICICTA.2011.21": [
+			false,
+			false
+		],
+		"10.1109/ICDM.2014.131": [
+			false,
+			false
+		],
+		"10.1109/ADPRL.2013.6614997": [
+			false,
+			false
+		],
+		"10.1109/IIAI-AAI.2017.28": [
+			false,
+			false
+		],
+		"10.23919/ICINS.2018.8405850": [
+			false,
+			false
+		],
+		"10.1109/DFT.2013.6653616": [
+			false,
+			false
+		],
+		"10.1109/ACCESS.2019.2939387": [
+			false,
+			false
+		],
+		"10.1109/ETFA.2018.8502542": [
+			false,
+			false
+		]
+	},
+	"type": "IEEE"
+}

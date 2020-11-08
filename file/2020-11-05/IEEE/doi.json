@@ -1,0 +1,105 @@
+{
+	"doi": {
+		"10.1109/ICITA.2005.192": [
+			false,
+			false
+		],
+		"10.1109/ICICIP.2013.6568112": [
+			false,
+			false
+		],
+		"10.1109/IJCNN.2014.6889878": [
+			false,
+			false
+		],
+		"10.1109/CIFEr.2012.6327783": [
+			false,
+			false
+		],
+		"10.1109/CIS.2013.44": [
+			false,
+			false
+		],
+		"10.1109/CSO.2009.209": [
+			false,
+			false
+		],
+		"10.1109/ICITSI.2015.7437725": [
+			false,
+			false
+		],
+		"10.1109/ICMSS.2011.5999256": [
+			false,
+			false
+		],
+		"10.1109/ICCET.2010.5485531": [
+			false,
+			false
+		],
+		"10.1109/SAI.2015.7237178": [
+			false,
+			false
+		],
+		"10.1109/SPAC.2017.8304255": [
+			false,
+			false
+		],
+		"10.1109/APSAR.2007.4418727": [
+			false,
+			false
+		],
+		"10.1109/ETFA.1995.496821": [
+			false,
+			false
+		],
+		"10.1109/TSG.2018.2857449": [
+			false,
+			false
+		],
+		"10.1109/ICASSP.2011.5947534": [
+			false,
+			false
+		],
+		"10.1109/ACCESS.2019.2932789": [
+			false,
+			false
+		],
+		"10.1109/ICR.2006.343462": [
+			false,
+			false
+		],
+		"10.1109/ICAIIC48513.2020.9065012": [
+			false,
+			false
+		],
+		"10.1109/ICACCS48705.2020.9074387": [
+			false,
+			false
+		],
+		"10.1109/ISNETCOD.2011.5978917": [
+			false,
+			false
+		],
+		"10.1109/INFOCOMWKSHPS50562.2020.9163034": [
+			false,
+			false
+		],
+		"10.1109/CIFER.1997.618933": [
+			false,
+			false
+		],
+		"10.1109/PACCS.2009.138": [
+			false,
+			false
+		],
+		"10.1109/NSSMIC.2013.6829281": [
+			false,
+			false
+		],
+		"10.1109/TPAMI.2015.2498931": [
+			false,
+			false
+		]
+	},
+	"type": "IEEE"
+}

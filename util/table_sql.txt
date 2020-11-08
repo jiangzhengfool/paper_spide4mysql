@@ -1,0 +1,12 @@
+CREATE TABLE `paper_info` (
+  `doi` varchar(100) CHARACTER SET utf8mb4 NOT NULL,
+  `bib_flag` bit(1) DEFAULT b'0',
+  `pdf_flag` bit(1) DEFAULT b'0',
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `title` varchar(150) DEFAULT NULL,
+  `bib_info` varchar(255) DEFAULT NULL,
+  `update_date` timestamp NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  `site_type` varchar(50) DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `doi_un` (`doi`) USING BTREE
+) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=utf8;

@@ -1,0 +1,14 @@
+{
+    "headers" :{
+        "Accept": "application/json,text/plain, * / *",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36",
+        "Accept": "application/json,text/plain, */*",
+
+        "Content-Type": "application/json"
+    },
+    "url":"https://dl.acm.org/action/doSearch",
+    "params": {"AllField":"","pageSize":50,"startPage":0}
+
+
+
+}
